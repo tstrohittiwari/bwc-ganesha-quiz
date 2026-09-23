@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# quiz run data (results + daily used-question log)
+/data/logs/
+
+# local admin password hash
+/data/admin.json
